@@ -1,0 +1,89 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;	
+}
+body{
+	
+}
+.topo--header{
+	width: 100%;
+	height: 90%;
+	font-family: 'Merienda', cursive; 
+}
+.sec--1header{
+	
+
+}
+.sec--1hea--menu{
+	color: #FBEFEF;
+}
+.div--nav1{
+	height: 80px;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-family: 'Merienda', cursive; 
+	font-size: 30px;
+	background: #F7819F;
+}
+.sec--1header-menu--rede{
+	height: 50px;
+}
+.div--navlogo{
+	height: 30%;
+	display: flex;
+	justify-content: center;
+	background: url(https://st2.depositphotos.com/1533030/9290/v/950/depositphotos_92905938-stock-illustration-background-of-kitchenware.jpg);
+	/*background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Yst8MA_F6Tdnj4qE1QzJWC65KA6h-iZNeQdGv7sHA95Q_xjP);*/
+}
+.sec--1hea--divlogo{
+	height: 30%;
+	display: flex;
+	border-radius: 50%;
+
+}
+.sec--1main{
+	height: 100%;
+	background-color: #FBEFF2;
+}
+.sec--1main-img{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+.sec--2main{
+
+}
+.sec--2main--h1{
+	height: 80px;
+	text-align: center;
+	font-size: 50px;
+	color: #FBEFEF;
+	font-family: 'Merienda', cursive; 
+	background: #F7819F;
+}
+.sec3--div{
+
+}
+.sec--2main--p{
+	width: 100%;
+	font-size: 20px;
+	font-family: "Arial"
+}
+.sec--3main--h3{
+	font-size: 50px;
+	color: #F7819F;
+	font-family: 'Merienda', cursive; 
+}
+.sec3main--img{
+	width: 60%;
+
+}
+.sec--3main--link2p{
+	font-size: 20px;
+	color: #F7819F;
+	font-family: 'Merienda', cursive; 
+}
